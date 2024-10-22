@@ -10,6 +10,10 @@ section{
     display: flex;
     justify-content: center;
 }
+header{
+    padding-bottom: 80px;
+    padding-top: 80px; 
+}
 .chamada-texto{
     margin-right: 5%;
 }
