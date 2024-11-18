@@ -3,12 +3,13 @@ body {
     background-color: black;
 }
 
-section{
+.chamada{
     background-color: rgb(241, 2, 241);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
+    
 }
 header{
     padding-bottom: 50px;
@@ -24,4 +25,8 @@ img{
     display: flex;
     overflow-x: auto;
     gap: 10px;
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
 }
