@@ -34,7 +34,7 @@ img{
 }
 h1{
     font-size: 40px;
-    font-weight: <weight>;
+    font-weight: weight;
 }
 p{
     font-size: 20px;
